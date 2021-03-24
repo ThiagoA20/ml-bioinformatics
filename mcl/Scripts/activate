@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\thiag\machine_learning\mcl"
+VIRTUAL_ENV="C:\Users\thiag\projects\machine_learning\mcl"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
